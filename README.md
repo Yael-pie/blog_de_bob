@@ -47,13 +47,18 @@ La compétition est rude ! Un classement sera établi pour déterminer qui sera 
 
 ---
 
-## 🚀 Comment participer ?
+## 🚀 Comment enquêter ?
 
 1.  **Analysez le blog** : Rendez-vous sur le site de Bob : URL.
 2.  **Outils recommandés** :
     * Inspecteur d'élément (F12 est votre meilleur ami).
     * Outils de décodage (Base64, CyberChef, EXIF Tools).
     * Votre cerveau et un peu d'intuition !
+3. **Lisez attentivement le blog**, beaucoup de preuves sont juste données.
+
+---
+
+# [Étape suivante : Comment faire ?](./Objectif.md) ➡️
 
 ---
 
