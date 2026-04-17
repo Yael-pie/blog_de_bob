@@ -59,7 +59,7 @@ La compétition est rude ! Un classement sera établi pour déterminer qui sera 
 
 ---
 
-## Quand vous trouvez une preuve :
+## Quand vous trouvez une preuve :
 
 - Si elle mentionne **EKITECH** ou expose les activités de Bob, **prennez une photo** pour nous la montrer à la fin.
 
