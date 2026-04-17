@@ -22,7 +22,7 @@ Votre but est de rassembler des preuves irréfutables de ses activités d'espion
 
 * **Le Défi :** Résoudre une série de challenges techniques (OSINT, Web, Cryptographie, etc.).
 * **La Récompense :** Chaque challenge validé vous octroie une **pièce du puzzle** (une preuve).
-* **Le Quota :** Il y a un total de **10 preuves** à collecter pour boucler le dossier.
+* **Le Quota :** Il y a un total de **14 preuves** à collecter pour boucler le dossier.
 
 ---
 
@@ -36,6 +36,7 @@ L'étudiant doit explorer l'écosystème numérique de Bob Morane pour extraire 
 | **4 - 7** | Détective : Vous commencez à l'inquiéter. |
 | **8 - 9** | Agent Spécial : La vérité est proche. |
 | **10** | **Expert Interpol : Dossier classé, Ekitech est démasqué !** |
+| **11 et +** | **Expert International : Incroyable.** |
 
 ---
 
