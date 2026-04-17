@@ -9,6 +9,8 @@ Le clic droit est votre arme fatale. Utilisez l'outil **"Inspecter"** de votre n
 * Explorer l'arborescence HTML.
 * Modifier des styles CSS pour révéler du contenu caché (ex: `display: none`).
 * Surveiller l'onglet **Network** (Réseau) pour voir les fichiers chargés.
+* Des fois la console donne des infos
+* Observez bien le code HTML, CSS et JS des sites. Parfois on y trouve des commentaires laissés par des développeurs maladroits
 
 ### 📖 2. Observation (Lecture attentive)
 Parfois, la preuve est sous vos yeux. 
